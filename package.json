@@ -1,0 +1,23 @@
+{
+  "name": "ascii-099",
+  "version": "1.0.0",
+  "description": "ascii generator from image",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/brainy099/ascii-099.git"
+  },
+  "author": "099",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/brainy099/ascii-099/issues"
+  },
+  "homepage": "https://github.com/brainy099/ascii-099#readme",
+  "dependencies": {
+    "caman": "^4.1.2",
+    "jimp": "^0.16.0"
+  }
+}
